@@ -1,2 +1,5 @@
 # data_scientist_toolkit
- Python (Numpy, Pandas, Matplotlib), R, ..
+ Python_review.ipynb
+  Numpy, Pandas, Matplotlib, ...
+ 
+ R, ..
